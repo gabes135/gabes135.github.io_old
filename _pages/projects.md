@@ -5,14 +5,24 @@ title: "My Personal Projects"
 auhtor_profile: true 
 header:
 	image: "/images/header.jpg"
+partial: all
 ---
 
-{% include group-by-array collection=site.posts field="tags" %}
+{% for post in site.posts %}
+<div class="row">
+	<div class="small-12 columns">
+  	
+		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
+		<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
+	  	{{ post.excerpt }}
+
+		<ul class="inline-list" style="margin-top:-1em;">
+			{% for category in post.categories %}
+			<li><h6><a href="/#!/{{ category }}"><i class="fa fa-tag"></i> {{ category }}</a></h6></li>
+			{% endfor %}
+		</ul>
+
+	</div>
+</div>
 {% endfor %}
