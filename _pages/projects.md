@@ -5,24 +5,18 @@ title: "My Personal Projects"
 auhtor_profile: true 
 header:
 	image: "/images/header.jpg"
-partial: all
 ---
 
 {% for post in site.posts %}
-<div class="row">
-	<div class="small-12 columns">
-  	
-		<sub>{{ post.date | date: '%B %d, %Y' }}</sub>
-		<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-
-	  	{{ post.excerpt }}
-
-		<ul class="inline-list" style="margin-top:-1em;">
-			{% for category in post.categories %}
-			<li><h6><a href="/#!/{{ category }}"><i class="fa fa-tag"></i> {{ category }}</a></h6></li>
-			{% endfor %}
-		</ul>
-
-	</div>
-</div>
+  <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
+		<div class="article-head">
+			<h2 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a></h2>
+			<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
+		</div><!--/.article-head-->
+		<div class="article-content">
+		{{ post.long_description }}
+		<a href="/{{ post.url }}/" class="full-post-link js-pjax">Read more</a>	
+		</div><!--/.article-content-->
+	</article>
+	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 {% endfor %}
