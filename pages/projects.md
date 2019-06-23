@@ -13,6 +13,7 @@ header:
 <ul>
   {% for post in site.posts %}
     <li>
+      {{post.title}}
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
