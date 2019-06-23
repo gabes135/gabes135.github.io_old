@@ -4,8 +4,8 @@ main:
     url: 'index.html'
   - title: "About"
     url: /pages/about/
-   #- title: "Projects"
-   #  url: /pages/projects/
+   - title: "Projects"
+     url: /pages/projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
