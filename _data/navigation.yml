@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: 'index.html'
   - title: "About"
-    url: /_pages/about/
-   - title: "Projects"
-     url: /_pages/projects/
+    url: /pages/about/
+   #- title: "Projects"
+   #  url: /pages/projects/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
