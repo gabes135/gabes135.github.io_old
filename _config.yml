@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabe Schumm"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "My personal projects and information."
   location         : "San Francisco, CA"
   email            :
