@@ -9,13 +9,9 @@ header:
 
 
 
+{% for pot in site.posts %}
+{{pot.title}}
+{% endfor %}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      {{post.title}}
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+
+
