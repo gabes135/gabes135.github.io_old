@@ -8,7 +8,7 @@ header:
 ---
 
  {% for post in site.posts %}
- 	{{ post.url }}
+ 	{{ post.url }}.md
  	
 
 {% endfor %}
