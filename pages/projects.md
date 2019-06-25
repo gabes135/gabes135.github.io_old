@@ -9,7 +9,7 @@ header:
 
  {% for post in site.posts %}
  	{{ post.url }}
- 	[Link to a post]({% link _posts//2019-06-23-2019-first_post.md %})
+ 	[Link to a post]({% link _posts/2019-06-23-2019-first_post.md %})
   
  	
 
