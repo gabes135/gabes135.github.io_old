@@ -7,4 +7,8 @@ header:
 	image: "/images/header.jpg"
 ---
 
-[Link to a post]({% link _posts/2019-06-23-2019-first_post.md %})
+{% for post in site.posts %}
+* {{ post.title }}
+* [Link to post]({{ site.url }}{{ post.url }})
+
+{% endfor %}
