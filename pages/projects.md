@@ -7,5 +7,5 @@ header:
 	image: "/images/header.jpg"
 ---
 
-{{ site.baseurl }}
+I usually search using [Google](https://www.google.com "Google").
 
