@@ -8,9 +8,10 @@ header:
 ---
 
  {% for post in site.posts %}
- * [Link to a post]({% link _posts/{{ post.url }}%})
+	[Name of Link]({{ site.baseurl }}{% post_url 2019-06-23-2019-first_post %})
+ 
   
- 	
+ 	2019-06-23-2019-first_post
 
 {% endfor %}
 
