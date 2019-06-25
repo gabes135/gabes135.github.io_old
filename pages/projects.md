@@ -6,7 +6,7 @@ auhtor_profile: true
 header:
 	image: "/images/header.jpg"
 ---
-
+<ul>
  {% for post in site.posts %}
 	[Name of Link]({{ site.baseurl }}{% post_url 2019-06-23-2019-first_post %})
  
@@ -14,4 +14,4 @@ header:
  	2019-06-23-2019-first_post
 
 {% endfor %}
-
+</ul>
