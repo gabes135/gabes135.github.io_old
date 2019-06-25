@@ -7,5 +7,4 @@ header:
 	image: "/images/header.jpg"
 ---
 
-I usually search using [Google](https://www.google.com "Google").
-
+[Link to a post]({% link _posts/_posts/2019-06-23-2019-first_post.md %})
