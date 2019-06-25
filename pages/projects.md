@@ -8,7 +8,7 @@ header:
 ---
 <ul>
  {% for post in site.posts %}
-	[Name of Link]({{ site.baseurl }}{% post_url 2019-06-23-2019-first_post %})
+	* [Name of Link]({% link {{ site.baseurl }}{2019-06-23-2019-first_post %}})
  
   
  	2019-06-23-2019-first_post
