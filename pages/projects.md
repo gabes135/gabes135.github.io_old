@@ -8,7 +8,7 @@ header:
 ---
 
 {% for post in site.posts %}
-* {{ post.title }}
+* {{ page.title }}
 * [Link to post]({{ site.url }}{{ post.url }})
 
 {% endfor %}
