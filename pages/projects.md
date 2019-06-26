@@ -12,3 +12,7 @@ header:
 * [Link to post]({{site.url}}{{post.url}})
 
 {% endfor %}
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
