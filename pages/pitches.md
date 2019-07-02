@@ -13,6 +13,6 @@ Pitching Trajectory Mapping Using MLB Statcast Data
 ![Kershaw Curve real](/images/pitch_traj/kershaw_curveball.gif)
 
 
-{% gif /images/pitch_traj/kershaw_curveball_traj_all.gif %}
+{% gif /Users/GabeSchumm/gabes135.github.io/images/pitch_traj/kershaw_curveball_traj_all.gif %}
 
 
