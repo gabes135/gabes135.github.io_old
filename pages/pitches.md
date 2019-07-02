@@ -9,6 +9,6 @@ header:
 Pitching Trajectory Mapping Using MLB Statcast Data
 
 ### Clayton Kershaw Curveball
-[Kershaw Curve](/images/pitch_traj/kershaw_curveball_traj_all.gif)
+![Kershaw Curve](/images/pitch_traj/kershaw_curveball_traj_all.gif)
 
 
