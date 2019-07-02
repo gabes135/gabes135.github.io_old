@@ -8,6 +8,6 @@ header:
 ---
 
 
-
 ## Pitch Trajectories
+Pitching Trajectory Mapping Using MLB Statcast Data
 

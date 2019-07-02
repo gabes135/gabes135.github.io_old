@@ -8,6 +8,7 @@ header:
 ---
 [Link to post]({{site.url}}{{post.url}})
 
-## Pitch Trajectories
-[Pitching Trajectory Mapping Using MLB Statcast Data]({% link pages/projects.md %})
+
+[## Pitch Trajectories]({% link pages/pitches.md %})
+Pitching Trajectory Mapping Using MLB Statcast Data
 
