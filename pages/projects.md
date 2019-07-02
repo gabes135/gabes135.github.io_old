@@ -6,9 +6,8 @@ auhtor_profile: true
 header:
 	image: "/images/header.jpg"
 ---
+[Link to post]({{site.url}}{{post.url}})
 
-{% for post in site.posts %}
-* {{post.title}}
-* [Link to post]({{site.url}}{{post.url}})
+## Pitch Trajectories
+[Pitching Trajectory Mapping Using MLB Statcast Data]({% link pages/projects.md %})
 
-{% endfor %}
