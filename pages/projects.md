@@ -9,6 +9,6 @@ header:
 [Link to post]({{site.url}}{{post.url}})
 
 
-[## Pitch Trajectories]({% link pages/pitches.md %})
+<h2>[Pitch Trajectories]({% link pages/pitches.md %}) </h2>
 Pitching Trajectory Mapping Using MLB Statcast Data
 
