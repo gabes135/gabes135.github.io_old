@@ -233,6 +233,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - gif_tag
+  - jekyll-titles-from-headings to the plugins
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -243,6 +244,11 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
 
 # Archives
 #  Type
