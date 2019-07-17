@@ -6,12 +6,12 @@ auhtor_profile: true
 header:
 	image: "/images/header.jpg"
 ---
-# Pitching Trajectory Mapping Using MLB Statcast Data
+#Pitching Trajectory Mapping Using MLB Statcast Data
 
 Choose a pitch from yesterday's "nastiest" pitches: 
 <iframe id="pitcherlist"
     title="Pitcher List Nastiest Pitches"
-    width="500"
+    width="700"
     height="500"
     src="https://www.pitcherlist.com/walker-buehlers-two-seam-fastball-and-the-nastiest-pitches-from-7-16/">
 </iframe>
