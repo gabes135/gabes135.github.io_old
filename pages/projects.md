@@ -12,3 +12,8 @@ header:
 ### [Pitch Trajectories]({% link pages/pitches.md %})
 Pitching Trajectory Mapping Using MLB Statcast Data
 
+<html><body>
+<?
+exec ("test.py");
+?>
+</body></html>
