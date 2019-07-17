@@ -12,17 +12,14 @@ Choose a pitch from yesterday's "nastiest" pitches:
 <iframe id="pitcherlist"
     title="Pitcher List Nastiest Pitches"
     width="900"
-    height="600"
+    height="400"
     src="https://www.pitcherlist.com/walker-buehlers-two-seam-fastball-and-the-nastiest-pitches-from-7-16/">
 </iframe>
 
-<html>
-<head>
-<title>run my python files</title>
 <?PHP
 echo shell_exec("python test.py 'parameter1'");
 ?>
-</head>
+
 
 
 
