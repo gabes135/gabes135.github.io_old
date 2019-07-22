@@ -15,19 +15,13 @@ The three dominating forces that play into the motion of a pitch are
 * Force of Gravity
 * Drag Force
 * Magnus Force
+
 The force of gravity and the drag force are fairly intuitive; gravity on the baseball always acts down towards the ground and the drag force on the baseball always acts in the opposite direction as the pitches velocity (ie. the direction it is moving in). The magnus force, however, is the seemingly unpredictable, Physics defying force that creates the wild movement seenm, for example, in the pitch below. 
-![](/Users/GabeSchumm/gabes135.github.io/assets/videos/Verlander_Curve.webm)
+
+![Verlander Curveball](/assets/videos/Verlander_Curve.webm)
 
 
 
-
-Choose a pitch from yesterday's "nastiest" pitches: 
-<iframe id="pitcherlist"
-    title="Pitcher List Nastiest Pitches"
-    width="900"
-    height="400"
-    src="https://www.pitcherlist.com/walker-buehlers-two-seam-fastball-and-the-nastiest-pitches-from-7-16/">
-</iframe>
 
 
 
