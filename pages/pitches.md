@@ -20,8 +20,8 @@ The three dominating forces that play into the motion of a pitch are
 The force of gravity and the drag force are fairly intuitive; gravity on the baseball always acts down towards the ground and the drag force on the baseball always acts in the opposite direction as the pitches velocity (ie. the direction it is moving in). The magnus force, however, is the seemingly unpredictable, Physics defying force that creates the wild movement seen, for example, in the pitch below. 
 
 <iframe src="/assets/videos/Sale_Slider.webm"
-		frameborder="0"
-		allowfullscreen
+		
+		
 		width="900"
     	height="400">
 </iframe>
@@ -30,10 +30,10 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 <img align="right" src="/assets/figures/magnus.png">
 The magnus force provides lift to a spinning object in a direction perpendicular to both its velocity and spin axis, as shown in the diagram to the right (courtesy of Alan M. Nathan at the Department of Physics, University of Illinois). Considering these three forces in the equation of motion of the baseball, one can calculate the instantaneous acceleration vector of the moving ball and numerically integrate to trace out the pitch's trajectory. The Chris Sale Slider shown above is traced out below, showing its movement along all three axes. 
 <iframe src="/assets/videos/sale_sliderall.gif"
-		width="900"
+		width="450"
     	height="400" 
-    	frameborder="0" 
-    	allowfullscreen>	
+    	
+    	>	
 </iframe>
 
 
