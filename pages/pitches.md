@@ -24,7 +24,7 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 </video>
 
 
-<img align="right" src="doc/subpagelist.png">
+<img align="right" src="/assets/figures/magnus.png">
 The magnus force provides lift to a spinning object in a direction perpendicular to both its velocity and spin axis, as shown in the diagram to the right
 
 
