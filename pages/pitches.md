@@ -29,8 +29,8 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 
 <img align="right" src="/assets/figures/magnus.png">
 The magnus force provides lift to a spinning object in a direction perpendicular to both its velocity and spin axis, as shown in the diagram to the right (courtesy of Alan M. Nathan at the Department of Physics, University of Illinois). Considering these three forces in the equation of motion of the baseball, one can calculate the instantaneous acceleration vector of the moving ball and numerically integrate to trace out the pitch's trajectory. The Chris Sale Slider shown above is traced out below, showing its movement along all three axes. 
-<iframe src="/assets/videos/sale_sliderall.gif"
-		width="450"
+<iframe src="/assets/videos/sale_sliderall.mp4"
+		width="900"
     	height="400" 
     	
     	>	
