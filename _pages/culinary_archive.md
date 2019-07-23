@@ -2,7 +2,7 @@
 layout: collection
 title: "Culinary Portfolio"
 collection: culinary
-permalink: /culinary/
+permalink: /culinary-archive/
 author_profile: false
 ---
 

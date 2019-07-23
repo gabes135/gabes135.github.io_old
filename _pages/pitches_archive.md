@@ -2,7 +2,7 @@
 layout: collection
 title: "Pitch Trajectories"
 collection: pitchhes
-permalink: /pitches/
+permalink: /pitches-archive/
 author_profile: false
 ---
 

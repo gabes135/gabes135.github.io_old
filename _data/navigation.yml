@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "Culinary"
-    url: /culinary/
+    url: /culinary-archive/
   - title: "Pitching"
-    url: /pitches/
+    url: /pitches-archive/
   - title: "Content"
     url: /collection-archive/
   # - title: "Sample Posts"

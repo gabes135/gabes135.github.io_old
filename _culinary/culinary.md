@@ -1,5 +1,6 @@
 ---
 title: "Culinary Portfolio"
+layout: collection
 header:
   image: /assets/culinary/acme.jpg
   teaser: assets/culinary/acme.jpg
