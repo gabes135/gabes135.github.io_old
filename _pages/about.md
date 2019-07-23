@@ -4,7 +4,7 @@ title: "About"
 permalink : /about/
 ---
 
-I'm a UC Berkeley Gradaute with a degree in Physics. I am currently working at the Space Science Laboratory in Berkeley, California as a Student Assistant working on data analysis for the [Van Allen Probes Mission](http://vanallenprobes.jhuapl.edu/)
+I'm a UC Berkeley Gradaute with a degree in Physics. I am currently working at the Space Science Laboratory in Berkeley, California as a Student Assistant, focusing on data analysis for the [Van Allen Probes Mission](http://vanallenprobes.jhuapl.edu/).
 
 I'm an avid Bay Area sports fan, following the San Francisco Giants and Golden State Warriors religiously. I play Fantasy Baseball and have a strong interest in Sabermetrics and the growing field of advanced analytics in sports. For more on this, check out my work on [pitch trajectories]({% link _pitches/pitches.md %}).
 

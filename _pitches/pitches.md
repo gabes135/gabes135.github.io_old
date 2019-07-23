@@ -1,7 +1,6 @@
 ---
-title: "Pitch Trajectories"
+title: "Pitching Trajectory Mapping Using MLB Statcast Data"
 ---
-# Pitching Trajectory Mapping Using MLB Statcast Data
 
 ## PITCHf/x and Statcast
 Starting in 2006, a handful Major League Baseball teams implemented the advanced camera system "PITCHf/x" into their stadiums. The cameras allowed detailed pitch speed, spin rate, and spin direction data to be tracked and analyzed in real time. Since its debut, pitch tracking technology has expanded to all stadiums, now under the name "Statcast," and the advanced stats they provide have nearly become household names. 
