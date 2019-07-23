@@ -298,10 +298,10 @@ defaults:
       author_profile: true
 
 
-  # _pitches
+  # _portfolio
   - scope:
       path: ""
-      type: pitches
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -310,7 +310,7 @@ defaults:
 
 
 collections:
-  Portfolio:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
