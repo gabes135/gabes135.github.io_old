@@ -2,6 +2,10 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Culinary"
+    url: /culinary/
+  - title: "Pitching"
+    url: /pitches/
   - title: "Content"
     url: /collection-archive/
   # - title: "Sample Posts"
