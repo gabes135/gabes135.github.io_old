@@ -28,14 +28,6 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 </iframe>&nbsp;
 
 
-<video height="1080" width="1920" autoplay="" playsinline="" preload="auto" 
-	<source src="https://thumbs.gfycat.com/PleasingSlightHorsechestnutleafminer-mobile.mp4" type="video/mp4">
-	<source src="https://giant.gfycat.com/PleasingSlightHorsechestnutleafminer.webm" type="video/webm">
-	<source src="https://giant.gfycat.com/PleasingSlightHorsechestnutleafminer.mp4" type="video/mp4">
-	<source src="https://thumbs.gfycat.com/PleasingSlightHorsechestnutleafminer-mobile.mp4" type="video/mp4">
-</video>
-
-
 <img align="right"
 	 width="35%"
      height="35%"
