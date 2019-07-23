@@ -19,7 +19,8 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
     width="640"
     height="360"
     align="middle"
-    frameborder="0">
+    frameborder="0"
+    autoplay=false>
 </iframe></p>&nbsp;
 
 
@@ -32,7 +33,8 @@ The magnus force provides lift to a spinning object in a direction perpendicular
     width="640"
     height="272" 
     align = "middle"    
-    frameBorder="0" >   
+    frameBorder="0" 
+    autoplay=false>   
 </iframe></p>
 
 

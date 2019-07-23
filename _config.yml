@@ -310,7 +310,7 @@ defaults:
 
 
 collections:
-  pitches:
+  Portfolio:
     output: true
     permalink: /:collection/:path/
 
