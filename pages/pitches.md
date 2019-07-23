@@ -24,7 +24,7 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 	width="1920"
     height="1080"
     
-    frameBorder="0">
+    frameborder="0">
 </iframe>&nbsp;
 
 
