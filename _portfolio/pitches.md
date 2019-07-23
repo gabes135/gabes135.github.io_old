@@ -16,7 +16,7 @@ The three dominating forces that play into the motion of a baseball pitch are
 
 The force of gravity and the drag force are fairly intuitive; gravity on the baseball always acts down towards the ground and the drag force on the baseball always acts in the opposite direction as the pitches velocity (i.e. the direction it is moving in). The magnus force, however, is the seemingly unpredictable, Physics defying force that creates the extreme movement seen, for example, in the pitch below. 
 <p align="center">
-    <video width="768" height="432" controls="controls">
+    <video width="640" height="360" controls="controls">
         <source src="/assets/videos/Castillo_2seam.mp4" type="video/mp4">
     </video>
 </p>&nbsp;
@@ -24,7 +24,7 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 
 <img align="right"
      width="25%"
-     height="30%"
+     height="35%"
      src="/assets/figures/magnus.png">
 The magnus force provides lift to a spinning object in a direction perpendicular to both its velocity and spin axis, as shown in the diagram to the right (courtesy of Alan M. Nathan at the Department of Physics, University of Illinois). The faster the ball is spnning and/or moving, the greater the magnitude of magnus force. Considering these three forces in the equation of motion of the baseball, one can calculate the instantaneous acceleration vector of the moving ball and numerically integrate to trace out the pitch's trajectory. The Luis Castillo Two-Seam Fastball shown above is traced out below, showing its movement along each axis. 
 <p align="center">
@@ -32,6 +32,9 @@ The magnus force provides lift to a spinning object in a direction perpendicular
         <source src="/assets/videos/castillo_all.mp4" type="video/mp4">
     </video>
 </p>
+
+## More Information
+For more on the pitch trajectories, I explain the pitch trajectory generation process [here]({% link _portfolio/pitches_process.md %}) and some possible applications of this tool [here]({% link _portfolio/pitches_application.md %})
 
 
 
