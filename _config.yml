@@ -288,6 +288,7 @@ defaults:
       share: true
       related: true
       sitemap: true
+      toc: true
 
   # _pages
   - scope:
@@ -297,6 +298,7 @@ defaults:
       layout: single
       author_profile: true
       sitemap: true
+      toc: true
 
 
 

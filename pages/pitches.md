@@ -4,8 +4,6 @@ title: "Pitch Trajectories"
 permalink: /pitches/
 auhtor_profile: true 
 toc: true
-header:
-	image: "/images/header.jpg"
 ---
 # Pitching Trajectory Mapping Using MLB Statcast Data
 
@@ -31,15 +29,15 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 
 <img align="right"
 	 width="25%"
-     height="25%"
+     height="30%"
      src="/assets/figures/magnus.png">
 The magnus force provides lift to a spinning object in a direction perpendicular to both its velocity and spin axis, as shown in the diagram to the right (courtesy of Alan M. Nathan at the Department of Physics, University of Illinois). The faster the ball is spnning and/or moving, the greater the magnitude of magnus force. Considering these three forces in the equation of motion of the baseball, one can calculate the instantaneous acceleration vector of the moving ball and numerically integrate to trace out the pitch's trajectory. The Luis Castillo Two-Seam Fastball shown above is traced out below, showing its movement along each axis. 
-<iframe src="/assets/videos/castillo_all.mp4"
+<p align="center"><iframe src="/assets/videos/castillo_all.mp4"
 	width="640"
    	height="272" 
     align = "middle"	
     frameBorder="0"	>	
-</iframe>
+</iframe></p>
 
 
 
