@@ -1,6 +1,5 @@
 ---
 title: "Culinary Portfolio"
-output = true
 header:
   image: /assets/culinary/acme.jpg
   teaser: assets/culinary/acme.jpg
