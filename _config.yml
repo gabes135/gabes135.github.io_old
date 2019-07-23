@@ -298,21 +298,35 @@ defaults:
       author_profile: true
 
 
-  # _portfolio
+  # _pitches
   - scope:
       path: ""
-      type: portfolio
+      type: pitches
     values:
       layout: single
       author_profile: true
       share: true
       toc: true
 
+  # _culinary
+  - scope:
+      path: ""
+      type: culinary
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+
 
 collections:
-  portfolio:
+  pitches:
     output: true
     permalink: /:collection/:path/
+  culinary:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 

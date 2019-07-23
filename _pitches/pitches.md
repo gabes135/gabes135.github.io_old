@@ -34,7 +34,7 @@ The magnus force provides lift to a spinning object in a direction perpendicular
 </p>
 
 ## More Information
-For more on the pitch trajectories, I explain the pitch trajectory generation process [here]({% link _portfolio/pitches_process.md %}) and some possible applications of this tool [here]({% link _portfolio/pitches_application.md %})
+For more on the pitch trajectories, I explain the pitch trajectory generation process [here]({% link _pitches/pitches_process.md %}) and some possible applications of this tool [here]({% link _pitches/pitches_application.md %})
 
 
 

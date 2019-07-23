@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Portfolio"
+  - title: "Content"
     url: /collection-archive/
   # - title: "Sample Posts"
   #   url: /year-archive/
