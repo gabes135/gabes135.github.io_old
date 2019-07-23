@@ -37,6 +37,10 @@ The magnus force provides lift to a spinning object in a direction perpendicular
     autoplay="false">   
 </iframe></p>
 
+<video width="480" height="320" controls="controls">
+  <source src="/assets/videos/castillo_all.mp4" type="video/mp4">
+</video>
+
 
 
 
