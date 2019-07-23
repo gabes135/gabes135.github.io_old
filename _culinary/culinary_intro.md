@@ -1,6 +1,10 @@
 ---
 title: "Culinary Portfolio"
+<<<<<<< HEAD:_culinary/culinary_intro.md
 layout: collection
+=======
+output = true
+>>>>>>> parent of 094bf95... text:_culinary/culinary.md
 header:
   image: /assets/culinary/acme.jpg
   teaser: assets/culinary/acme.jpg
