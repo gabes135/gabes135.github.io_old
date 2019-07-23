@@ -22,8 +22,8 @@ The three dominating forces that play into the motion of a baseball pitch are
 The force of gravity and the drag force are fairly intuitive; gravity on the baseball always acts down towards the ground and the drag force on the baseball always acts in the opposite direction as the pitches velocity (i.e. the direction it is moving in). The magnus force, however, is the seemingly unpredictable, Physics defying force that creates the extreme movement seen, for example, in the pitch below. 
 
 <iframe src="/assets/videos/Castillo_2seam.mp4"
-	width="900"
-    height="506.25"
+	width="1920"
+    height="1080"
     align = "center"
     frameborder="0" 
     hspace="0" 
