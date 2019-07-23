@@ -3,7 +3,7 @@ layout: single
 title: "Pitch Trajectories"
 permalink: /pitches/
 auhtor_profile: true 
-sitemap: true
+toc: true
 header:
 	image: "/images/header.jpg"
 ---
@@ -24,7 +24,7 @@ The force of gravity and the drag force are fairly intuitive; gravity on the bas
 <iframe src="/assets/videos/Castillo_2seam.mp4"
 	width="640"
     height="360"
-    align="center"
+    align="middle"
     frameborder="0">
 </iframe>&nbsp;
 
@@ -37,7 +37,7 @@ The magnus force provides lift to a spinning object in a direction perpendicular
 <iframe src="/assets/videos/castillo_all.mp4"
 	width="640"
    	height="272" 
-    align = "center"	
+    align = "middle"	
     frameBorder="0"	>	
 </iframe>
 
