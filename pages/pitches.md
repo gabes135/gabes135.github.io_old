@@ -3,6 +3,7 @@ layout: single
 title: "Pitch Trajectories"
 permalink: /pitches/
 auhtor_profile: true 
+sitemap: true
 header:
 	image: "/images/header.jpg"
 ---

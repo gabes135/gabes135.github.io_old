@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" #, "default" "air", "aqua", "contrast", "dark", "", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -114,23 +114,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: gabes135@berkeley.edu
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gabes135"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
 # Site Footer
 footer:
   links:
@@ -300,6 +287,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sitemap: true
 
   # _pages
   - scope:
@@ -308,6 +296,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sitemap: true
 
 
 
