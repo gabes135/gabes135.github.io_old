@@ -1,5 +1,5 @@
 ---
-title: "Pitching Trajectory Mapping Using MLB Statcast Data"
+title: "Pitching Trajectory Mapping"
 ---
 The trajectory of a pitched baseball is Physics in action. A simple breakdown of the forces acting on the moving baseball shines light of what makes Curveballs dip, Sliders bend, and Fastballs rise.
 
@@ -34,7 +34,7 @@ The magnus force provides lift to a spinning object in a direction perpendicular
 </p>
 
 ## More Information
-For more on the pitch trajectories, I explain the pitch trajectory generation process [here]({% link _pitches/pitches_process.md %}) and some possible applications of this tool [here]({% link _pitches/pitches_application.md %})
+For more on the pitch trajectories, I explain the pitch trajectory generation process [here]({% link _pitches/pitches_process.md %}) and some possible applications of this tool [here]({% link _pitches/pitches_application.md %}). I also look at some of the MLB's "nastiest" pitches, as identified by [Pitcher List](https://www.pitcherlist.com/category/gifs/nastiest-pitches/) [here]({% link _pitches/nasty_pitches.md %}).
 
 
 
