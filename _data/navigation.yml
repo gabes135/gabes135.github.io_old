@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Pitching"
-  #  url: /pitches-archive/
+  - title: "Pitching"
+    url: /pitches-intro/
   #- title: "Culinary"
   #  url: /culinary-archive/
   # - title: "Sample Collections"
