@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Content"
     url: /collection-archive/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Culinary"
+    url: /culinary-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
