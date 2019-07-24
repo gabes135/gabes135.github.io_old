@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Pitching"
     url: /pitches-intro/
-  #- title: "Culinary"
-  #  url: /culinary-archive/
+  - title: "Culinary"
+    url: /culinary-intro/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
