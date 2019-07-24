@@ -15,3 +15,22 @@ Just as in any Mechanics problem, the first step is to analyze the forces acting
 * Drag Force: $ F_d = -\frac{1}{2}C_D \rho A \vec{v} $
 * Magnus Force: $ F_m = -\frac{1}{2}C_L(\omega) \rho A \vec{v} \times \hat{\omega} $
 
+The variables in the above equations are:
+
+| Variable        | Defintion           | Notes  |
+| ------------- |:-------------:| -----:|
+| $g$      		| Gravitational acceleration | $\sim 9.81 \textrm{m/s}$ |
+| $C_D$     | Drag coefficient      |   Depends on geometry of the baseball, $\sim 0.3$ |
+| $\rho$ | Density of air    |    Depends on climate, $/sim 1.23 \textrm{kg/m}^3 |
+| $A$      		| Cross-sectional area of baseball | $4/pi r^2$ where $r$ is the radius of the baseball |
+| $\vec{v}$     | Velocity vector of the baseball     | Defined in coordinate system shown below |
+| $\vec{\omega}$ | Spin vector of the baseball   | Magnitude is the baseball's spinrate and direction follows the right hand rule|
+| $C_L(\omega)$ | Lift coefficient   |    Depends on the geometry and spin rate of the baseball |
+
+
+<img align="right"
+     width="25%"
+     height="35%"
+     src="/assets/figures/magnus.png">
+
+The corresponding free diagram and cooridante system is shown on the right. 
