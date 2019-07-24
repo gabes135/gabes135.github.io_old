@@ -38,8 +38,8 @@ The magnus force provides lift to a spinning object in a direction perpendicular
     </video>
 </p>
 
-## More Information
-For more on the pitch trajectories, I explain the pitch trajectory generation process [here]({% link _pitches/pitches_process.md %}) and some possible applications of this tool [here]({% link _pitches/pitches_application.md %}). I also look at some of [MLB's "nastiest" pitches]({% link _pitches/nasty_pitches.md %}), as identified by [Pitcher List](https://www.pitcherlist.com/category/gifs/nastiest-pitches/).
+## More on Pitch Trajectories
+For more on the pitch trajectories, I explain the pitch trajectory calculation process [here]({% link _pitches/01-eqs-of-motion.md %}) and some possible applications of this tool [here]({% link _pitches/pitches_application.md %}). I also look at some of [MLB's "nastiest" pitches]({% link _pitches/nasty_pitches.md %}), as identified by [Pitcher List](https://www.pitcherlist.com/category/gifs/nastiest-pitches/).
 
 
 

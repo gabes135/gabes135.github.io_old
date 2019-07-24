@@ -10,3 +10,29 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+pitches:
+  - title: Trajectory Generation Process
+    children:
+      - title: "Equations of Motion"
+        url: /docs/quick-start-guide/
+     #- title: "Numerical Integration"
+     #   url: /docs/structure/
+     # - title: "Satcast Data"
+     #   url: /docs/installation/
+     # - title: "Upgrading"
+     #   url: /docs/upgrading/
+  - title: Applications of Tool
+    #children:
+     # - title: "Configuration"
+     #   url: /docs/configuration/
+     # - title: "Overriding Theme Defaults"
+     #   url: /docs/overriding-theme-defaults/
+     # - title: "Navigation"
+     #   url: /docs/navigation/
+     # - title: "UI Text"
+     #   url: /docs/ui-text/
+     # - title: "Authors"
+     #   url: /docs/authors/
+     # - title: "Layouts"
+     #   url: /docs/layouts/
