@@ -15,14 +15,14 @@ pitches:
   - title: Trajectory Generation Process
     children:
       - title: "Equations of Motion"
-        url: /docs/quick-start-guide/
+        url: /pitches/eqs-of-motion/
      #- title: "Numerical Integration"
      #   url: /docs/structure/
      # - title: "Satcast Data"
      #   url: /docs/installation/
      # - title: "Upgrading"
      #   url: /docs/upgrading/
-  - title: Applications of Tool
+  #- title: Applications of Tool
     #children:
      # - title: "Configuration"
      #   url: /docs/configuration/
