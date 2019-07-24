@@ -12,6 +12,6 @@ For those who've taken an introductory Mechanics class, mapping the trajectory o
 ## Free Body Diagram
 Just as in any Mechanics problem, the first step is to analyze the forces acting on the object of interest and draw out the object's free body diagram. As mentioned in the introduction the three forces in play are
 * Force of Gravity: $ F_G = -mg \hat{z} $
-* Drag Force: $ F_d = -\frac{1}{2}C_D\rhoA \vec{v} $
-* Magnus Force: $ F_m = -\frac{1}{2}C_L(\omega)\rhoA \vec{v} \times \hat{\omega} $
+* Drag Force: $ F_d = -\frac{1}{2}C_D \rho A \vec{v} $
+* Magnus Force: $ F_m = -\frac{1}{2}C_L(\omega) \rho A \vec{v} \times \hat{\omega} $
 
