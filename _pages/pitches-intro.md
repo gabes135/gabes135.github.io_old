@@ -2,7 +2,7 @@
 title: "Pitching Trajectory Mapping"
 permalink: /pitches-intro/
 header:
-  overlay_image: /assets/pitches/header.png
+  overlay_image: /assets/pitches/header.jpg
   overlay_filter: 0.5
 ---
 The trajectory of a pitched baseball is Physics in action. A simple breakdown of the forces acting on the moving baseball shines light of what makes Curveballs dip, Sliders bend, and Fastballs rise.
