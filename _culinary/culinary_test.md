@@ -1,4 +1,0 @@
----
-title: "Culinary test"
-
----
