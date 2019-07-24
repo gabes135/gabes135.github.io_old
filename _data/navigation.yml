@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Pitching"
-    url: /pitches-intro/
-  - title: "Culinary"
-    url: /culinary-intro/
+  #- title: "Pitching"
+  #  url: /pitches-intro/
+  #- title: "Culinary"
+  #  url: /culinary-intro/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
