@@ -1,6 +1,6 @@
 ---
 title: "Culinary Portfolio"
-layout: collection
+permalink : /culinary_intro/
 header:
   image: /assets/culinary/acme.jpg
   teaser: assets/culinary/acme.jpg
