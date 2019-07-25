@@ -16,14 +16,14 @@ pitches:
     children:
       - title: "Pitch Trajectory Mapping"
         url: /pitches-intro/
-  - title: Generation a Trajectory
+  - title: Trajectory Generation Process
     children:
       - title: "Equations of Motion"
         url: /pitches/eqs-of-motion/
       - title: "Numerical Integration"
         url: /pitches/numerical-int/
-     # - title: "Satcast Data"
-     #   url: /docs/installation/
+      - title: "Python Implementation"
+        url: /pitches/python/
      # - title: "Upgrading"
      #   url: /docs/upgrading/
   #- title: Applications of Tool

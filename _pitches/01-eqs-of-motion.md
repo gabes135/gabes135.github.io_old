@@ -42,7 +42,7 @@ The corresponding free diagram and cooridante system is shown on the below.
 ## Net Force and Acceleration
 After we've defined the relevant forces, the instantaneous acceleration of the baseball can be derived:
 
-$$ \vec{F_G} + \vec{F_D} + \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \hat{\omega} \times \vec{v} -\frac{1}{2}C_D \rho A \vec{v}  -mg \hat{z} = m\vec{a} $$
+$ \vec{F_G} + \vec{F_D} + \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \hat{\omega} \times \vec{v} -\frac{1}{2}C_D \rho A \vec{v}  -mg \hat{z} = m\vec{a} $
 
 
 This equation gives the acceleration of the baseball at any point along its trajectory, but the data available from Statcast only gives us the velocity, position, and spin data at a single, initial point along the pitch's path. How can we derive the entire trajectory from just this one set of values? The solution to this issue is to use numerical integration to interpolate the these paramters along the trajectory.

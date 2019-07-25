@@ -6,7 +6,7 @@ last_modified_at: 2019-06-25T11:53:00-08:00
 toc: true
 mathjax: true
 ---
-## Numerical Integration
+## Trajectory Interpolation
 Given the acceleration, velocity, and position of an object at a single point in time, its position and velocity a short amount of time in the future (or past) can be approximated using numerical techniques. If you're able to update the acceleration at this interpolated moment, the process can be continued up to any point. This is the process used to map the trajectory of a pitch using just its initial paramters.
 
 
@@ -29,4 +29,7 @@ $ \vec{k _ { 2, v }} = dt * \vec{a} \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _
 
 
 $\vec{v} _ {n+1} = \vec{v} _ {n} + \vec{k _ { 2, v }}  \quad \vec{x} _ {n+1} = \vec{x} _ {n} + \vec{k _ { 2, x }} $
+
+The accerlation function used is derived from the [equation of motion]({% link _pitches/01-eqs-of-motion.md %}) discussed previously and depends soley on the velocity (the spin vector of the ball is taken to be constant). The image on the right is an example of using RK4, the same technique as RK2 but with four intermediate steps. It is clear how the prediction of the next point on the graph is improved with each k-step.
+
 
