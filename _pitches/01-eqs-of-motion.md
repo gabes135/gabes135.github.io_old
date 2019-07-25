@@ -21,11 +21,12 @@ The variables in the above equations are:
 | ------------- |:-------------:| -----:|
 | $g$      		| Gravitational acceleration | $\sim 9.81 \textrm{m/s}$ |
 | $C_D$     | Drag coefficient      |   Depends on geometry of the baseball, $\sim 0.3$ |
-| $\rho$ | Density of air    |    Depends on climate, $/sim 1.23 \textrm{kg/m}^3 |
-| $A$      		| Cross-sectional area of baseball | $4/pi r^2$ where $r$ is the radius of the baseball |
+| $\rho$ | Density of air    |    Depends on climate, $\sim 1.23 \textrm{kg/m}^3$ |
+| $A$      		| Cross-sectional area of baseball | $4 \pi r^2$ where $r$ is the radius of the baseball |
 | $\vec{v}$     | Velocity vector of the baseball     | Defined in coordinate system shown below |
-| $\vec{\omega}$ | Spin vector of the baseball   | Magnitude is the baseball's spinrate and direction follows the right hand rule|
+| $\vec{\omega}$ | Spin vector of the baseball   | Magnitude is baseball's spinrate and direction follows right hand rule|
 | $C_L(\omega)$ | Lift coefficient   |    Depends on the geometry and spin rate of the baseball |
+
 
 
 <img align="right"
