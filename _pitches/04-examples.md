@@ -10,5 +10,13 @@ My favorite use of this tool is to look at some of the MLB's "nastiest" pitches,
 
 ## Examples
 ### Trevor Bauer's Curveball
-
-
+<p align="center">
+    <video width="640" height="360" controls="controls">
+        <source src="/assets/videos/bauer_cu.mp4" type="video/mp4">
+    </video>
+</p>&nbsp;
+<p align="center">
+    <video width="640" height="360" controls="controls">
+        <source src="/assets/videos/bauer_all.mp4" type="video/mp4">
+    </video>
+</p>&nbsp;
