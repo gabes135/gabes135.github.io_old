@@ -43,5 +43,21 @@ In addition, Alan Nathan's method gives a more accurate calculation of both the 
 
 We now have everything we need to produce the pitch trajectory.
 
+## Interpolatting the Trajectory
+The numerical integration method used is described on the previous page. The pitch attributes needed for this process are:
 
+`'release_pos_x', 'release_pos_y', 'release_pos_z','vxR', 'vyR', 'vzR', 'release_spin_rate', 'phi', 'Cl', 'Cd'`
+
+These values correspond to the three position components and three velocity components at the pitch's release point, the baseball's spin rate, the baseball's spin axis direction, and the two coefficients. More information of these parameters can be found in Alan Nathan's article referenced above and in the documentation in my code.
+
+The trajectory generation function recieves these 10 inputs and the distance from homeplate that you'd like to integrate until ($/sim 1$ if the entire trajectory is desired). The function interpolates to the end position, as well as "backwards in time" to the pitchers mound. Although different pitchers release the ball from different distances from the mound, I found that integrating back gave the most complete perspective of the pitch motion.
+
+The result is a three column array containing the position of the baseball from the mound to homeplate ready for plotting. 
+
+## Producing the Animated Flight Path
+The last step is to plot the data in a easy to digest, visually appealing manner to (A) ensure the process has accurately mapped the pitch trajectory and (B) produce a product that allows you to truly dig deeper into the Physics at play.
+
+The plotting library [matplotlib](https://matplotlib.org/) provides a great tool to plot data in 3D. It can be viewed dynamically, allowing the user to rotate the axes and view the pitch's flight path and differentangles, or statically at preset angles. I've chosen to produce a graphic that displays the pitch in motion from three angles to show its vertical movement (z-axis), horizontal movement (x-axis), as well as straight on to most closely match what you'd see in a game broadcast. For pitches like Sliders, the view showing the horizontal movement is most fascinating, where as for Curvballs, the vertical movement is primarly of interest. I prefer the straight on view for pitches that snap back and paint the corners, such as the Two Seam Fastball shown in the introduction.
+
+The trajectories are animated using [matplotlib's animation class](https://matplotlib.org/3.1.1/api/animation_api.html), which allows you to easily export the pitch trajectory as an mp4 file. 
 
