@@ -20,8 +20,8 @@ There are many variations of computational numerical integration techniques for 
 The accuracy of this method can be improved by using a trial step at the midpoint of the time interval  $dt$ to cancel out lower-order error terms. This technique is referred to as Runge Kutta 2 (RK2) and is applied as follows:
 
 <img align="right"
-     width="40%"
-     height="40%"
+     width="35%"
+     height="35%"
      src="/assets/pitches/Runge-Kutta_4.png">
 $ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right) \quad \vec{k _ { 1, x }} = dt * \vec{v} _ { n } \left(\vec{x} _ { n } \right) $
 
