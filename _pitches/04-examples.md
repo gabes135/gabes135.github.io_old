@@ -32,3 +32,16 @@ My favorite use of this tool is to look at some of the MLB's "nastiest" pitches,
         <source src="/assets/videos/ottavino_all.mp4" type="video/mp4">
     </video>
 </p>
+
+### Kyle Hendricks's Changeup
+<p align="center">
+    <video width="640" height="360" controls="controls">
+        <source src="/assets/videos/hendricks_ch.mp4" type="video/mp4">
+    </video>
+</p>&nbsp;
+<p align="center">
+    <video width="768" height="325" controls="controls">
+        <source src="/assets/videos/hendricks_all.mp4" type="video/mp4">
+    </video>
+</p>
+
