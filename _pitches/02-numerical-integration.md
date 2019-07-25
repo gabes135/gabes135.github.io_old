@@ -23,17 +23,10 @@ The accuracy of this method can be improved by using a trial step at the midpoin
      width="25%"
      height="35%"
      src="/assets/pitches/Runge-Kutta_4.png">
-$ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right) $
+$ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right) \quad \vec{k _ { 1, x }} = dt * \vec{v} _ { n } \left(\vec{x} _ { n } \right) $
 
-$ \vec{k _ { 1, x }} = dt * \vec{v} _ { n } \left(\vec{x} _ { n } \right) $
-
-
-$ \vec{k _ { 2, v }} = dt * \vec{a} \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $
-
-$ \vec{k _ { 2, x }} = dt * \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $
+$ \vec{k _ { 2, v }} = dt * \vec{a} \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) \quad \vec{k _ { 2, x }} = dt * \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $
 
 
-$\vec{v} _ {n+1} = \vec{v} _ {n} + \vec{k _ { 2, v }} $
-
-$\vec{x} _ {n+1} = \vec{x} _ {n} + \vec{k _ { 2, x }} $
+$\vec{v} _ {n+1} = \vec{v} _ {n} + \vec{k _ { 2, v }}  \quad \vec{x} _ {n+1} = \vec{x} _ {n} + \vec{k _ { 2, x }} $
 
