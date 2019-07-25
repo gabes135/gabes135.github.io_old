@@ -19,17 +19,17 @@ There are many variations of computational numerical integration techniques for 
 
 The accuracy of this method can be improved by using a trial step at the midpoint of the time interval  $dt$ to cancel out lower-order error terms. This technique is referred to as Runge Kutta 2 (RK2) and is applied as follows:
 
-$$ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right)$$
+$ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right) $
 
-$$ \vec{k _ { 1, x }} = dt * \vec{v} _ { n } \left(\vec{x} _ { n } \right)$$
-
-
-$$ \vec{k _ { 2, v }} = dt * \vec{a} \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $$
-
-$$ \vec{k _ { 2, x }} = dt * \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $$
+$ \vec{k _ { 1, x }} = dt * \vec{v} _ { n } \left(\vec{x} _ { n } \right) $
 
 
-$$\vec{v} _ {n+1} = \vec{v} _ {n} + \vec{k _ { 2, v }} $$
+$ \vec{k _ { 2, v }} = dt * \vec{a} \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $
 
-$$\vec{x} _ {n+1} = \vec{x} _ {n} + \vec{k _ { 2, x }} $$
+$ \vec{k _ { 2, x }} = dt * \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $
+
+
+$\vec{v} _ {n+1} = \vec{v} _ {n} + \vec{k _ { 2, v }} $
+
+$\vec{x} _ {n+1} = \vec{x} _ {n} + \vec{k _ { 2, x }} $
 
