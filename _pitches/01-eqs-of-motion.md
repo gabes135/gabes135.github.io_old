@@ -13,12 +13,13 @@ For those who've taken an introductory Mechanics class, mapping the trajectory o
 Just as in any Mechanics problem, the first step is to analyze the forces acting on the object of interest and draw out the object's free body diagram. As mentioned in the introduction the three forces in play are
 * Force of Gravity: $ \vec{F_G} = -mg \hat{z} $
 * Drag Force: $ \vec{F_D} = -\frac{1}{2}C_D \rho A \vec{v} $
-* Magnus Force: $ \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \vec{v} \times \hat{\omega} $
+* Magnus Force: $ \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \hat{\omega} \times \vec{v}  $
 
 The variables in the above equations are:
 
 | Variable        | Defintion           | Notes  |
 | ------------- |:-------------:| -----:|
+| $m$      		| Mass of the baseball | $0.145\textrm{kg}$ |
 | $g$      		| Gravitational acceleration | $\sim 9.81 \textrm{m/s}$ |
 | $C_D$     | Drag coefficient      |   Depends on geometry of the baseball, $\sim 0.3$ |
 | $\rho$ | Density of air    |    Depends on climate, $\sim 1.23 \textrm{kg/m}^3$ |
@@ -40,9 +41,10 @@ The corresponding free diagram and cooridante system is shown on the below.
 
 ## Net Force and Acceleration
 After we've defined the relevant forces, the instantaneous acceleration of the baseball can be derived:
-$$ \vec{F_G} + \vec{F_D} + \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \vec{v} \times \hat{\omega} -\frac{1}{2}C_D \rho A \vec{v}  -mg \hat{z} = m\vec{a} $$
+$$ \vec{F_G} + \vec{F_D} + \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \hat{\omega} \times \vec{v} -\frac{1}{2}C_D \rho A \vec{v}  -mg \hat{z} = m\vec{a} $$
 
-This equation gives the acceleration at any point along the baseball's trajectory, but the data available from Statcast only gives us the velocity, position, and spin data at a single, initial point along the baseball's path. The solution to this issue is to use numerical integration to interpolate the these paramters along the trajectory.
+
+This equation gives the acceleration of the baseball at any point along its trajectory, but the data available from Statcast only gives us the velocity, position, and spin data at a single, initial point along the pitch's path. How can we derive the entire trajectory from just this one set of values? The solution to this issue is to use numerical integration to interpolate the these paramters along the trajectory.
 
 ## Numerical Integration
 
