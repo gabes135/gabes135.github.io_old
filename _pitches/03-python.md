@@ -34,7 +34,7 @@ Before Statcast was implemented, the pitch data provided by PITCHf/x included th
     title="Spin Axis Paper"
     width="170"
     height="220"
-    src="http://baseball.physics.illinois.edu/trackman/SpinAxis.pdf">
+    src="/assets/pitches/alan_nathan.pdf">
 </iframe>
 
 The method of deriving the pitch spin axis is a bit involved, but thankfully Baseball-Physics legend [Alan M. Nathan](http://baseball.physics.illinois.edu/) of the University of Illinois has done the hard work for us in his [paper on the subject](http://baseball.physics.illinois.edu/trackman/SpinAxis.pdf). He has even provided a dynamic Excel Spredsheet where you can input specific pitch parameters and the resultant spin axis direction is spit out. I suggest reviewing his paper on the subject for more details, but the general idea is to remove the spin independant factors for the camera-measured acceleration (gravity and drag) and use the given velocity to identify the spin vector component perpendicular to the velocity. Since this term is dierctly proportional to the Magnus component of the acceleration, it can be used in conjuction with the Stacast provided spin rate to construct the spin axis vector and spin axis direction. 
