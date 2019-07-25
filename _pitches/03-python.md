@@ -32,8 +32,8 @@ Before Statcast was implemented, the pitch data provided by PITCHf/x included th
 	align="right" 
 	id="nathan"
     title="Spin Axis Paper"
-    width="170"
-    height="220"
+    width="340"
+    height="450"
     src="/assets/pitches/alan_nathan.pdf">
 </iframe>
 
