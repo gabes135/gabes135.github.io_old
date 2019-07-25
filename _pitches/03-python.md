@@ -50,7 +50,7 @@ The numerical integration method used is described on the previous page. The pit
 
 These values correspond to the three position components and three velocity components at the pitch's release point, the baseball's spin rate, the baseball's spin axis direction, and the two coefficients. More information of these parameters can be found in Alan Nathan's article referenced above and in the documentation in my code.
 
-The trajectory generation function recieves these 10 inputs and the distance from homeplate that you'd like to integrate until ($/sim 1$ if the entire trajectory is desired). The function interpolates to the end position, as well as "backwards in time" to the pitchers mound. Although different pitchers release the ball from different distances from the mound, I found that integrating back gave the most complete perspective of the pitch motion.
+The trajectory generation function recieves these 10 inputs and the distance from homeplate that you'd like to integrate until ($\sim$ 1 foot if the entire trajectory is desired). The function interpolates to the end position, as well as "backwards in time" to the pitchers mound. Although different pitchers release the ball from different distances from the mound, I found that integrating back gave the most complete perspective of the pitch motion.
 
 The result is a three column array containing the position of the baseball from the mound to homeplate ready for plotting. 
 
@@ -61,3 +61,5 @@ The plotting library [matplotlib](https://matplotlib.org/) provides a great tool
 
 The trajectories are animated using [matplotlib's animation class](https://matplotlib.org/3.1.1/api/animation_api.html), which allows you to easily export the pitch trajectory as an mp4 file. 
 
+---
+Now that we've gone through the pitch trajectory mapping process, we can see it action.
