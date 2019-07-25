@@ -27,6 +27,16 @@ If done correctly, the result should by a single rowed DataFrame with columns fo
 ## Calculating the Spin Axis Direction
 Before Statcast was implemented, the pitch data provided by PITCHf/x included the direction of the spin axis, a paramter necessary to calculate the spin vector $\vec{\omega}$. However, this value was never measured but instead infered from the camera-measured acceleration of the pitch and has since been excluded in Baseball Savant's database. 
 
+
+<iframe 
+	align="right" 
+	id="nathan"
+    title="Spin Axis Paper"
+    width="170"
+    height="220"
+    src="http://baseball.physics.illinois.edu/trackman/SpinAxis.pdf">
+</iframe>
+
 The method of deriving the pitch spin axis is a bit involved, but thankfully Baseball-Physics legend [Alan M. Nathan](http://baseball.physics.illinois.edu/) of the University of Illinois has done the hard work for us in his [paper on the subject](http://baseball.physics.illinois.edu/trackman/SpinAxis.pdf). He has even provided a dynamic Excel Spredsheet where you can input specific pitch parameters and the resultant spin axis direction is spit out. I suggest reviewing his paper on the subject for more details, but the general idea is to remove the spin independant factors for the camera-measured acceleration (gravity and drag) and use the given velocity to identify the spin vector component perpendicular to the velocity. Since this term is dierctly proportional to the Magnus component of the acceleration, it can be used in conjuction with the Stacast provided spin rate to construct the spin axis vector and spin axis direction. 
 
 In addition, Alan Nathan's method gives a more accurate calculation of both the lift and drag coefficients used in the equation of motion. Rather than using emperically derived values, his parameters extract them from the given information.
