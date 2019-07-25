@@ -304,12 +304,13 @@ defaults:
       type: pitches
     values:
       layout: single
+      mathjax: true
       author_profile: true
       share: true
       toc: true
       sidebar:
         nav: "pitches"
-      mathjax: true
+
 
   # _culinary
   - scope:

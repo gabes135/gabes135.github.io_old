@@ -4,6 +4,7 @@ permalink: /pitches/numerical-int/
 excerpt: "Interpolating the trajectory of a pitch."
 last_modified_at: 2019-06-24T15:39:00-08:00
 toc: true
+mathjax: true
 ---
 ## Numerical Integration
 Given the acceleration, velocity, and position of an object at a single point in time, its position and velocity a short amount of time in the future (or past) can be approximated using numerical techniques. If you're able to update the acceleration at this interpolated moment, the process can be continued up to any point. This is the process used to map the trajectory of a pitch using just its initial paramters.
