@@ -33,5 +33,9 @@ The variables in the above equations are:
      width="25%"
      height="35%"
      src="/assets/figures/magnus.png">
+<img align="left"
+     width="25%"
+     height="25%"
+     src="/assets/pitches/coordinates.jpg">
 
 The corresponding free diagram and cooridante system is shown on the right. 
