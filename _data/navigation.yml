@@ -20,7 +20,7 @@ pitches:
     children:
       - title: "Equations of Motion"
         url: /pitches/eqs-of-motion/
-     - title: "Numerical Integration"
+      - title: "Numerical Integration"
         url: /pitches/numerical-int/
      # - title: "Satcast Data"
      #   url: /docs/installation/

@@ -2,7 +2,7 @@
 title: "Numerical Integration"
 permalink: /pitches/numerical-int/
 excerpt: "Interpolating the trajectory of a pitch."
-last_modified_at: 2019-06-24T15:39:00-08:00
+last_modified_at: 2019-06-25T11:53:00-08:00
 toc: true
 mathjax: true
 ---
