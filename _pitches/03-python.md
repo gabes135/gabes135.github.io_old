@@ -52,9 +52,6 @@ The plotting library [matplotlib](https://matplotlib.org/) provides a great tool
 
 The trajectories are animated using [matplotlib's animation class](https://matplotlib.org/3.1.1/api/animation_api.html), which allows you to easily export the pitch trajectory as an mp4 file. 
 
----
-
-With the details of this tool fleshed out, we can check out some examples of it in use. 
 
 
 
