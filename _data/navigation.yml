@@ -12,7 +12,9 @@ main:
   #   url: /sitemap/
 
 pitches:
-  - title: Trajectory Generation Process
+  - title: Introduction
+      url: /pitches-intro/
+  - title: Generation a Trajectory
     children:
       - title: "Equations of Motion"
         url: /pitches/eqs-of-motion/
