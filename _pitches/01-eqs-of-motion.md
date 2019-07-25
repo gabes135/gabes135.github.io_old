@@ -32,10 +32,10 @@ The variables in the above equations are:
 <img align="middle"
      width="25%"
      height="35%"
-     src="/assets/figures/magnus.png">
+     src="/assets/figures/magnus.png">&nbsp;
 <img align="middle"
-     width="60%"
-     height="60%"
+     width="70%"
+     height="70%"
      src="/assets/pitches/coordinates.jpg">
 
 The corresponding free diagram and cooridante system is shown on the above. 
