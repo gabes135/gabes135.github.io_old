@@ -24,8 +24,8 @@ pitches:
         url: /pitches/numerical-int/
       - title: "Python Implementation"
         url: /pitches/python/
-     # - title: "Upgrading"
-     #   url: /docs/upgrading/
+      - title: "Examples"
+        url: /pitches/examples/
   #- title: Applications of Tool
     #children:
      # - title: "Configuration"
