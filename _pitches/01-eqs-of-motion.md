@@ -29,13 +29,16 @@ The variables in the above equations are:
 
 
 
-<img align="right"
+<img align="middle"
      width="25%"
      height="35%"
      src="/assets/figures/magnus.png">
-<img align="left"
-     width="25%"
-     height="25%"
+<img align="right"
+     width="50%"
+     height="50%"
      src="/assets/pitches/coordinates.jpg">
 
 The corresponding free diagram and cooridante system is shown on the right. 
+
+
+
