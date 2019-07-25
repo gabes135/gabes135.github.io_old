@@ -1,7 +1,7 @@
 ---
 title: "Examples of Mapped Pitch Trajectories"
 permalink: /pitches/examples/
-excerpt: "Implementing the pitch trajectory interpolation in Python"
+excerpt: "Side by side Pitch GIFs and their mapped pitch trajectories."
 last_modified_at: 2019-06-25T15:39:00-08:00
 toc: true
 mathjax: true
