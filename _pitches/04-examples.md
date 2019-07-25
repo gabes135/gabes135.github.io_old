@@ -19,4 +19,16 @@ My favorite use of this tool is to look at some of the MLB's "nastiest" pitches,
     <video width="768" height="325" controls="controls">
         <source src="/assets/videos/bauer_all.mp4" type="video/mp4">
     </video>
+</p>
+
+### Adam Ottavino's Slider
+<p align="center">
+    <video width="640" height="360" controls="controls">
+        <source src="/assets/videos/ottavino_sl.mp4" type="video/mp4">
+    </video>
 </p>&nbsp;
+<p align="center">
+    <video width="768" height="325" controls="controls">
+        <source src="/assets/videos/ottavino_all.mp4" type="video/mp4">
+    </video>
+</p>
