@@ -5,6 +5,8 @@ excerpt: "The forces that act on a pitched baseball and the resultalt motion."
 last_modified_at: 2019-06-24T15:39:00-08:00
 toc: true
 mathjax: true
+sidebar:
+  nav: pitches
 ---
 ## Setting up the Problem
 For those who've taken an introductory Mechanics class, mapping the trajectory of a projectile should be a familiar problem. If you haven't, you've likely thrown a ball and observed that it follows a parabolic path. So what differentiates the two starkly different types of motion? The keys factors that add complexity to this beginner level physics problem are **spin** and **speed**, which I will explore and work through below. 
