@@ -309,6 +309,7 @@ defaults:
       toc: true
       sidebar:
         nav: "pitches"
+      mathjax: true
 
   # _culinary
   - scope:

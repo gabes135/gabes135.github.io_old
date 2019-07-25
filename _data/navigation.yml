@@ -14,14 +14,14 @@ main:
 pitches:
   - title: Introduction
     children:
-      - title: "Intro to Pitch Trajectories"
+      - title: "Pitch Trajectory Mapping"
         url: /pitches-intro/
   - title: Generation a Trajectory
     children:
       - title: "Equations of Motion"
         url: /pitches/eqs-of-motion/
-     #- title: "Numerical Integration"
-     #   url: /docs/structure/
+     - title: "Numerical Integration"
+        url: /pitches/numerical-int/
      # - title: "Satcast Data"
      #   url: /docs/installation/
      # - title: "Upgrading"

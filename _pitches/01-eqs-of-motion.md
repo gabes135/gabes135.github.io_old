@@ -1,7 +1,7 @@
 ---
 title: "Equation of Motion"
 permalink: /pitches/eqs-of-motion/
-excerpt: "The forces that act on a pitched baseball and the resultalt motion."
+excerpt: "The forces that act on a pitched baseball."
 last_modified_at: 2019-06-24T15:39:00-08:00
 toc: true
 mathjax: true
@@ -46,7 +46,7 @@ $$ \vec{F_G} + \vec{F_D} + \vec{F_M} = \frac{1}{2}C_L(\omega) \rho A \hat{\omega
 
 This equation gives the acceleration of the baseball at any point along its trajectory, but the data available from Statcast only gives us the velocity, position, and spin data at a single, initial point along the pitch's path. How can we derive the entire trajectory from just this one set of values? The solution to this issue is to use numerical integration to interpolate the these paramters along the trajectory.
 
-## Numerical Integration
+
 
 
 
