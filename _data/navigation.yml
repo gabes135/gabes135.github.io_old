@@ -13,7 +13,9 @@ main:
 
 pitches:
   - title: Introduction
-      url: /pitches-intro/
+      children:
+      - title: "Equations of Motion"
+        url: /pitches-intro/
   - title: Generation a Trajectory
     children:
       - title: "Equations of Motion"
