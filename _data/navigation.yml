@@ -13,8 +13,8 @@ main:
 
 pitches:
   - title: Introduction
-      children:
-      - title: "Equations of Motion"
+    children:
+      - title: "Intro to Pitch Trajectories"
         url: /pitches-intro/
   - title: Generation a Trajectory
     children:
