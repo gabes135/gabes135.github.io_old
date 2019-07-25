@@ -308,7 +308,7 @@ defaults:
       share: true
       toc: true
       sidebar:
-        nav: "docs"
+        nav: "pitches"
 
   # _culinary
   - scope:

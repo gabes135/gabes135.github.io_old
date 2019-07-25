@@ -7,7 +7,7 @@ header:
 toc: true
 last_modified_at: 2019-06-24T15:39:00-08:00
 sidebar:
-  nav: pitches
+  nav: "pitches"
 ---
 The trajectory of a pitched baseball is Physics in action. A simple breakdown of the forces acting on the moving baseball shines light of what makes Curveballs dip, Sliders bend, and Fastballs rise.
 
