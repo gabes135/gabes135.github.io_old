@@ -10,7 +10,7 @@ With Tasty videos and home-made Youtube tutorials overwhelming every social medi
 ## Online Resources
 My parents, among most people who didn't grow up in the age of the internet, have shelves upon shelves of cookbooks dating back decades. Hard cover cookbooks with tattered binding and spilt-on pages will never lose their place in the kitchen, but with every imagineable recipe available online, the internet is the most valuable recipe resource there is. Below are sites that I enjoy using the most.
 
-### [Bon Appétit](bonappetit.com)
+### [Bon Appétit](https://www.bonappetit.com/)
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/culinary/bonap.png){: .align-right}
 
