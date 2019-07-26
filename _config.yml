@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Gabe Schumm"
   avatar           : "/images/avatar.jpg"
-  bio              : "My personal projects and information."
+  bio              : #"My personal projects and information."
   location         : "San Francisco, CA"
   email            :
   links:
