@@ -12,7 +12,7 @@ I'm an avid Bay Area sports fan, following the San Francisco Giants and Golden S
 I'm a homebaker with a ambition for baking bread. Watching the Food Network at a young age sparked my interest in the culinary arts, and since then I've drawn inspiration from Bon Appetite magazine, Alton Brown and his show *Good Eats*, and the book "Flour Salt Water Yeast" by Ken Forkish. Some of pictures and recipes can be found [here]({% link _pages/culinary-intro.md %})
 
 ## Resume and Contact Info
-You can find my [resume](/assets/CV_current.pdf) on the below. Feel free to contact me via email at *gabes135 at berkeley dot edu*.
+You can find my [resume](/assets/CV_current.pdf) below. Feel free to contact me via email at *gabes135 at berkeley dot edu*.
 
 <iframe 
 	align="center" 
@@ -22,4 +22,10 @@ You can find my [resume](/assets/CV_current.pdf) on the below. Feel free to cont
     height="450"
     src="/assets/CV_current.pdf">
 </iframe>
+
+## Acknowledgements
+Website theme (Minimal Mistakes) courtesy of [Jekyll](https://jekyllrb.com/) and [Michael Rose](https://github.com/mmistakes). 
+
+Icons and logos courtsey of [Font Awesome](https://fontawesome.com) and [Flat Icon](https://www.flaticon.com).
+
 
