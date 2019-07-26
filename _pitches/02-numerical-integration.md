@@ -23,13 +23,13 @@ The accuracy of this method can be improved by using a trial step at the midpoin
      width="30%"
      height="30%"
      src="/assets/pitches/Runge-Kutta_4.png">
-$ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right) \quad \vec{k _ { 1, x }} = dt * \vec{v} _ { n } \left(\vec{x} _ { n } \right) $
+$ \vec{k _ { 1, v }} = dt * \vec{a} \left(\vec{v} _ { n } \right) \quad \vec{k _ { 1, x }} = dt * \vec{v} _ { n } $
 
 $ \vec{k _ { 2, v }} = dt * \vec{a} \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) \quad \vec{k _ { 2, x }} = dt * \left(\vec{v} _ { n } + \frac{1}{2} \vec{k _ { 1, v }} \right) $
 
 
 $\vec{v} _ {n+1} = \vec{v} _ {n} + \vec{k _ { 2, v }}  \quad \vec{x} _ {n+1} = \vec{x} _ {n} + \vec{k _ { 2, x }} $
 
-The accerlation function used is derived from the [equation of motion]({% link _pitches/01-eqs-of-motion.md %}) discussed previously and depends soley on the velocity (the spin vector of the ball is taken to be constant). The image on the right is an example of using RK4, the same technique as RK2 but with four intermediate steps. It is clear how the prediction of the next point on the graph is improved with each k-step.
+The accerlation function used is derived from the [equation of motion]({% link _pitches/01-eqs-of-motion.md %}) discussed previously and depends soley on the velocity (the spin vector of the ball is taken to be constant). The image on the right is an example of using RK4, the same technique as RK2 but with four intermediate steps. As more steps are added, the accuracy of the apporximation increases, but RK2 is sufficient for my purpose.
 
 
