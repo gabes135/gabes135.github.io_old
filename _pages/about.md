@@ -15,7 +15,7 @@ I'm a homebaker with a ambition for baking bread. Watching the Food Network at a
 You can find my [resume](/assets/CV_current.pdf) on the below. Feel free to contact me via email at *gabes135 at berkeley dot edu*.
 
 <iframe 
-	align="middle" 
+	align="center" 
 	id="cv"
     title="CV"
     width="340"
