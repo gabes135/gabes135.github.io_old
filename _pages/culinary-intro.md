@@ -14,7 +14,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/culinary/pasta-LAMB.png
+  - image_path: /assets/culinary/pasta.jpeg
     alt: "my stuff"
     title: "My Creations"
     excerpt: "My most visually appealing bakes and dishes"
@@ -38,6 +38,6 @@ From a young age, I've had an affinity for the kitchen. Before I was even tall e
 
 {% include feature_row id="feature_row1" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="left" %}
