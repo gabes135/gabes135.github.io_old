@@ -13,19 +13,23 @@ feature_row:
     title: "About Me"
     excerpt: "My background, interests, and resume."
     url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     
   - image_path: /assets/figures/bball_blue.png
     alt: "pitches"
     title: "Pitch Trajectories"
     excerpt: "Mapping pitch trajectories from MLB Statcast data using Physics and Python."
     url: "/pitches-intro/"
-    
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/figures/chef_blue.png
     alt: "culinary"
     title: "Culinary"
     excerpt: "The food I love, my favorite recipes, and photos."
     url: "/culinary-intro/"
-    
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
