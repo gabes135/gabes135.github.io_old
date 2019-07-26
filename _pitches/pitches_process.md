@@ -1,3 +1,0 @@
----
-title: "Generating Pitch Trajectory"
----
