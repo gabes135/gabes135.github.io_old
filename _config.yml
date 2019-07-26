@@ -320,7 +320,6 @@ defaults:
       author_profile: true
       share: true
       toc: true
-      permalink: /:title/
 
 
 
