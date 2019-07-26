@@ -22,11 +22,11 @@ feature_row:
     url: "/pitches-intro/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/figures/question_blue.png
-    alt: "about"
-    title: "About Me"
-    excerpt: "Background, Interests, and CV"
-    url: "/about/"
+  - image_path: /assets/figures/chef_blue.png
+    alt: "culinary"
+    title: "Culinary"
+    excerpt: "Food I love, recipes, and photos."
+    url: "/culinary-intro/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
