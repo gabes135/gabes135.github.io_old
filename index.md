@@ -3,6 +3,7 @@ layout: splash
 title: "Gabe Schumm's Personal Website"
 permalink: /
 header:
+  overlay_color: "#5e616c"
   overlay_image: /assets/figures/header-blue.jpg
 excerpt: 
   A site for my projects, interests, and info. 
