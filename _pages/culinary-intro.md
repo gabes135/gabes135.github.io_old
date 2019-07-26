@@ -9,7 +9,7 @@ feature_row1:
     alt: "cookbooks"
     title: "Recipes"
     excerpt: "Some of my favorite recipes: from confections and pastries, to entrees and side dishes."
-    url: '/culinary/recipes/'
+    url: "/culinary/recipes/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -18,7 +18,7 @@ feature_row2:
     alt: "my stuff"
     title: "My Creations"
     excerpt: "My most visually appealing bakes and dishes"
-    url: '/culinary-stuff/'
+    url: "/culinary-stuff/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -27,7 +27,7 @@ feature_row3:
     alt: "other stuff"
     title: "Culinary Experiences"
     excerpt: "Some of my most memorable and delicious meals"
-    url: '/culinary-stuff/'
+    url: "/culinary-stuff/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
