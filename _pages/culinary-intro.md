@@ -4,7 +4,7 @@ permalink: /culinary-intro/
 header:
   overlay_image: /assets/culinary/acme.jpg
   overlay_filter: 0.5
-feature_row:
+feature_row1:
   - image_path: /assets/culinary/cookbook_collage.png
     alt: "cookbooks"
     title: "Recipes"
@@ -12,6 +12,8 @@ feature_row:
     url: '/culinary-stuff/'
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row2:
   - image_path: /assets/culinary/pasta.jpeg
     alt: "my stuff"
     title: "My Creations"
@@ -19,6 +21,8 @@ feature_row:
     url: '/culinary-stuff/'
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row3:
   - image_path: /assets/culinary/croissant.jpeg
     alt: "other stuff"
     title: "Culinary Experiences"
@@ -30,4 +34,8 @@ feature_row:
 
 From a young age, I've had an affinity for the kitchen. Before I was even tall enough to see over the counter, I would stand on a chair to watch my dad prepare desserts from his childhood. I thank my parents' insistance on family meals nearly every night for allowing my passion for cooking to grow. After countless 'Chopped' epsiodes, Gordan Ramsey Youtube videos, and binged seasons of 'The Great British Baking Show,' I find myself with an ever-growing arsenal of kitchen techniques and an ambition to explore the world of cuisine.
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
