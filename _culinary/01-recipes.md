@@ -12,7 +12,7 @@ My parents, among most people who didn't grow up in the age of the internet, hav
 
 ### [Bon Appétit](https://www.bonappetit.com/)
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/culinary/bonap.png){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/culinary/bonap.png){: .align-right .width-300 }
 
 The first google search I make when contemplating making new dish is "bon appetit {new dish}." Their print magazine has been around since the 1950's and their library online content is just as robust. As I assume is similar with many cooking publications, the food editors at Bon Appétit put tons of time and effort into their recipe development and testing. 
 
