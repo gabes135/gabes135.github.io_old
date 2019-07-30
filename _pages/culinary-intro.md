@@ -1,6 +1,8 @@
 ---
 title: "Culinary Portfolio"
 permalink: /culinary-intro/
+sidebar:
+  nav: "pitches"
 header:
   overlay_image: /assets/culinary/acme.jpg
   overlay_filter: 0.5
