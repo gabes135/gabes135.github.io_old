@@ -28,9 +28,9 @@ pitches:
         url: /pitches/examples/
 
 ###
-#culinary:
-#  - title: Introduction
-#    children:
-#      - title: "Culinary Portfolio"
-#        url: /culinary-intro/
+culinary:
+  - title: Introduction
+    children:
+      - title: "Culinary Portfolio"
+        url: /culinary-intro/
   
