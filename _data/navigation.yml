@@ -33,4 +33,9 @@ culinary:
     children:
       - title: "Culinary Portfolio"
         url: /culinary-intro/
-  
+  - title: Recipes
+    children:
+      - title: "Recipe Sources"
+        url: /culinary/recipe-sources/
+      - title: "My Recipe List"
+        url: /culinary/my-list/
