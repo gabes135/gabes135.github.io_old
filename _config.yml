@@ -320,8 +320,8 @@ defaults:
       author_profile: true
       share: true
       toc: true
-      sidebar:
-        nav: "culinary"
+      #sidebar:
+      #  nav: "culinary"
 
 
 
