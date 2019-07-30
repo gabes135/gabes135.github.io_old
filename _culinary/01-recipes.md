@@ -25,8 +25,13 @@ Not only is their website loaded with modern, creative, and seasonal recipes, bu
 
 Similarly to Bon Appétit, the New York Times cooking section has been in publishing for decades and contains recipes for nearly every dish you could think of. What the New York Times has over a smaller publicaiton like Bon Appétit is that they have a much larger network of recipe contibuters. This gives the best overall perspective on a given recipe or cooking technique. On the other hand, with a less concentrated writer base, you can find a larger variation in the culinary choices represented in their recipes. I often confer with bost sources when researching a new recipe.   
 
-### [Alton Brown's Show *Good Eats*]()
+### [Alton Brown's Show *Good Eats*](https://altonbrown.com/altonblog/recipes/)
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/culinary/alton.jpg){: .align-right .width-300 }
 
-*Good Eats* is my favorite Food Network program. It's blend of science and cooking spoke to me at a young age, when I first started getting into 
+*Good Eats* was the first Food Network program that got me hooked on cooking television. It's blend of science and cooking spoke to me at a young age, changing my perspective on what defines quality cooking. If you are looking for though-out explanations with experimental backing, rather than "it's just the way its always been done," Alton Brown's recipes and techniques are where you should look. His show his quarky and dramatic, which is not for everyone, but his methodology is sound and he isn't afraid to adapt and edit what he got wrong (see *Good Eats: Reloaded*). 
+
+Alton's Brown's recipes won't be as flashy or new-age as those from a more user-base concerned publication like the ones above, but they will be science-backed, not overly complicated, and fairly easy to reproduce in any home kitchen. His site is my go-to for baseline cooking techniques and methods.
+
+
+
