@@ -4,7 +4,8 @@ title: "Gabe Schumm's Personal Website"
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/figures/header-blue.jpg
+  overlay_image: /assets/figures/jackson_header.jpeg
+  overlay_filter: 0.5
 excerpt: 
   A site for my projects, interests, and info.
 feature_row:

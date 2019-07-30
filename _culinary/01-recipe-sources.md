@@ -1,7 +1,7 @@
 ---
 title: "Recipe Sources"
 permalink: /culinary/recipe-sources/
-excerpt: "Some of my favorite recipes: from confections and pastries, to entrees and side dishes."
+excerpt: "Some of my most trust-worthy recipe sources."
 last_modified_at: 2019-06-26T15:19:00-08:00
 toc: true
 ---
