@@ -6,9 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/figures/jackson_header.jpeg
   overlay_filter: 0.5
-  excerpt: 
+excerpt: 
   A website for my projects and portfolio, hobbies and interests,<br /> and personal information.
-
 feature_row:
   - image_path: /assets/figures/question_blue.png
     alt: "about"
