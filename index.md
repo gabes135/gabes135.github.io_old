@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 excerpt: 
   A website for my projects and portfolio, hobbies and interests,<br /> and personal information. <br />
-  <br /><br /><br /> test
+  <br /><br /><br /> 
   
 feature_row:
   - image_path: /assets/figures/question_blue.png
