@@ -26,17 +26,18 @@ pitches:
         url: /pitches/python/
       - title: "Examples"
         url: /pitches/examples/
-  #- title: Applications of Tool
-    #children:
-     # - title: "Configuration"
-     #   url: /docs/configuration/
-     # - title: "Overriding Theme Defaults"
-     #   url: /docs/overriding-theme-defaults/
-     # - title: "Navigation"
-     #   url: /docs/navigation/
-     # - title: "UI Text"
-     #   url: /docs/ui-text/
-     # - title: "Authors"
-     #   url: /docs/authors/
-     # - title: "Layouts"
-     #   url: /docs/layouts/
+culinary:
+  - title: Introduction
+    children:
+      - title: "Culinary Portfolio"
+        url: /culinary-intro/
+  - title: Recipes
+    children:
+      - title: "Recipe Sources"
+        url: /culinary/recipes-sources/
+      - title: "My Recipe List"
+        url: /culinary/my-list/
+      #- title: "Python Implementation"
+      #  url: /pitches/python/
+      #- title: "Examples"
+      #  url: /pitches/examples/

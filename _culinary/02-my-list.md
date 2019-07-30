@@ -1,8 +1,9 @@
+
 ---
 title: "Recipe Sources"
-permalink: /culinary/recipes-sources/
+permalink: /culinary/my-list/
 excerpt: "Some of my favorite recipes: from confections and pastries, to entrees and side dishes."
-last_modified_at: 2019-06-26T15:19:00-08:00
+last_modified_at: 2019-06-30T10:14:00-08:00
 toc: true
 ---
 With Tasty videos and home-made Youtube tutorials overwhelming every social media feed, it may seem hard to identify what recipes you can really trust. I definitely struggle with this as well, but believe to have found a solid group of resources that provide recipes that are **tested**, **modern/scientific**, **relatively easy**, and, mostly importantly, **delicious**. Here are some of my go-to's.
