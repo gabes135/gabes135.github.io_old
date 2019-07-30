@@ -7,7 +7,9 @@ header:
   overlay_image: /assets/figures/jackson_header.jpeg
   overlay_filter: 0.5
 excerpt: 
-  A website for my projects and portfolio, hobbies and interests,<br /> and personal information.
+  A website for my projects and portfolio, hobbies and interests,<br /> and personal information. <br />
+  <br /><br /><br /> 
+  
 feature_row:
   - image_path: /assets/figures/question_blue.png
     alt: "about"
