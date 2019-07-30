@@ -27,6 +27,6 @@ Similarly to Bon Appétit, the New York Times cooking section has been in publis
 
 ### [Alton Brown's Show *Good Eats*]()
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/culinary/nyt.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/culinary/alton.jpg){: .align-right}
 
 *Good Eats* is my favorite Food Network program. It's blend of science and cooking spoke to me at a young age, when I first started getting into 
