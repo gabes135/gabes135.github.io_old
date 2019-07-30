@@ -26,6 +26,7 @@ pitches:
         url: /pitches/python/
       - title: "Examples"
         url: /pitches/examples/
+
 culinary:
   - title: Introduction
     children:
@@ -34,7 +35,7 @@ culinary:
   - title: Recipes
     children:
       - title: "Recipe Sources"
-        url: /culinary/recipes-sources/
+        url: /culinary/recipe-sources/
       - title: "My Recipe List"
         url: /culinary/my-list/
       #- title: "Python Implementation"
