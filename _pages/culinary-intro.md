@@ -9,7 +9,7 @@ feature_row1:
     alt: "cookbooks"
     title: "Recipes"
     excerpt: "Some of my favorite recipes: from confections and pastries, to entrees and side dishes."
-    url: "/culinary/recipe-sources/"
+    url: "/culinary/recipe-intro/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

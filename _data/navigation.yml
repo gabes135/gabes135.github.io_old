@@ -35,6 +35,8 @@ culinary:
         url: /culinary-intro/
   - title: Recipes
     children:
+      - title: "Recipe Introduction"
+        url: /culinary/recipe-intro/
       - title: "Recipe Sources"
         url: /culinary/recipe-sources/
       - title: "My Recipe List"
