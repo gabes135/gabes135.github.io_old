@@ -37,7 +37,13 @@ culinary:
     children:
       - title: "Recipe Introduction"
         url: /culinary/recipe-intro/
-      - title: "Recipe Sources"
+      - title: "Recipe Resources"
         url: /culinary/recipe-sources/
-      - title: "My Recipe List"
-        url: /culinary/my-list/
+      - title: "Online Resources"
+        url: /culinary/online/
+      - title: "Print Resources"
+        url: /culinary/print/
+
+
+
+
