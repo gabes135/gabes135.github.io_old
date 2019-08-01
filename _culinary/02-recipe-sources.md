@@ -9,5 +9,5 @@ With Tasty videos and home-made Youtube tutorials overwhelming every social medi
 
 Here are my favorite [online resources]({% link _culinary/03-online-sources.md %}) and here are my favorite [print resources]({% link _culinary/04-print-sources.md %}).
 
-[Link]({{ '/_culinary/' | /culinary/online/ }})
+[Link]({{ '/culinary/online/' }})
 
