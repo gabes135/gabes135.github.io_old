@@ -19,18 +19,18 @@ The ingredients called for in a dish are also strong identifiers of the recipe's
 On the other side of the spectrum, if a recipe is calling for ingredients that are out of your price range, it also may not be the best choice. The recipe itself is probably delicious, but I'd be shocked to hear from a professional chef that expensive ingredients are what make their dishes taste good. I think that the recipes you should be looking to recreate should call for ingredients that are *realistic* for your budget, but also get your excited about making the dish when you pick them out at the grocery store.
 
 ## Recipe Complexity
-Recipes with a million steps have their place. If you are making croissants from scratch or risott, then definitely don't choose the recipe with the fewest amount of steps. More complex recipes require more work and often times produce a more tasty, and equally complex tasting dish. They do have their time and place, but just because a recipe has a million moving parts, does not mean it is going to come out of the oven or off the stove and without a doubt taste great. Before you dive into a recipe, a great question to ask yourself is "is this going to be worth it?"
+Recipes with a million steps have their place. If you are making croissants or risotto, then definitely **don't** choose the recipe with the fewest amount of steps. More complex recipes require more work and often times produce a more tasty, and fittingly complex tasting dish. They do have their time and place, but just because a recipe has a million moving parts, does not mean it is going to come out of the oven or off the stove and without a doubt taste great. Before you dive into a recipe, a great question to ask yourself is "is this going to be worth it?"
 
-For example, there are tons of bread recipes that involve days of prep work to produce a single loaf. If you are a beginning bread baker, choosing the most complex recipe will result in almost a guarantee failure. And even if you're an accomplished bread baker, the process with likely be a challenge. Instead, focus on finding more home-baker friendly recipes like Jim Lahey's (No-Knead Bread)(https://cooking.nytimes.com/recipes/11376-no-knead-bread). Recipes with their own complexities, but that bring stress into your life, are what I look for.
+For example, there are tons of bread recipes that involve days of prep work to produce a single loaf. If you are a beginning bread baker, choosing the most complex recipe will result in almost a guaranteed failure. And even if you're an accomplished bread baker, the process with likely be a challenge. Instead, focus on finding more home-baker friendly recipes like Jim Lahey's [No-Knead Bread](https://cooking.nytimes.com/recipes/11376-no-knead-bread). Recipes like these, ones with their own complexities, but that don't bring stress into my life, are what I look for.
 
 ## The Small Things
-The last feature I look for in a recipe are the less significant choices that writer made when producing the recipe, sucha as:
+The last feature I look for in a recipe are the less significant choices that the writer consciously made when producing the recipe, such as:
 * Using weight (and the metric system) rather than volume for baking
 * Emphasizing seasoning and encouraging tasting
 * Including ingredients that balance (like acid for rich dishes or salt for sweet dishes)
 * Stressing the importance of the ingredient quality
 
-Things like these are in some part personal preferences, but are more importantly factors that I've picked up on from recipes, cooking shows, and articles. As you work through more and more recipes, you will notice commonalities like these and start to look for them in other recipes. 
+Things like these are in some part personal preferences, but are more importantly factors that I've picked up on from other recipes, cooking shows, and articles. As you work through more and more recipes, you will notice commonalities like these. 
 
 
 
