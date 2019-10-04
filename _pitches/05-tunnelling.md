@@ -20,12 +20,12 @@ The two videos below recreate the overlayed video above using mapped pitch traje
 
 
 <p align="center">
-    <video width="660" height="840" controls="controls">
+    <video width="330" height="420" controls="controls">
         <source src="/assets/videos/Bieber_FF_CU_broadcast.mp4" type="video/mp4">
     </video>
 </p>
 <p align="center">
-    <video width="660" height="840" controls="controls">
+    <video width="330" height="420" controls="controls">
         <source src="/assets/videos/Bieber_FF_CU_side.mp4" type="video/mp4">
     </video>
 </p>
