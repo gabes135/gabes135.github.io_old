@@ -35,4 +35,12 @@ The two videos below recreate the overlayed video above using mapped pitch traje
         <source src="/assets/videos/Stras_FF_CU.webm" type="video/webm">
     </video>
 </p>
+<p align="center">
+    <video width="297" height="378" controls="controls">
+        <source src="/assets/videos/Stras_FF_CU_broadcast.mp4" type="video/mp4">
+    </video>
+    <video width="297" height="378" controls="controls">
+        <source src="/assets/videos/Stras_FF_CU_side.mp4" type="video/mp4">
+    </video>
+</p>
 
