@@ -26,6 +26,6 @@ feature_row:
     url: "/pitches-intro/"
     btn_label: "Read More"
     btn_class: "btn--primary"
----
+
 
 {% include feature_row %}
