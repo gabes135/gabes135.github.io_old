@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/culinary/acme.jpg
   overlay_filter: 0.5
 
-gallery2:
+gallery1:
   - image_path: /assets/bread/loaf1.jpg
     url : /assets/bread/loaf1.jpg
     alt: "loaf1"
@@ -42,6 +42,7 @@ Here are some pitcures of sourdough loaves I've baked the past, along with some 
 
 {% include gallery id ="gallery1" class="full %}
 {% include gallery id ="gallery2" class="full %}
+
 
 
 
