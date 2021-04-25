@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/culinary/acme.jpg
   overlay_filter: 0.5
 
-gallery:
+gallery1:
   - image_path: /assets/bread/loaf1.jpg
     url : /assets/bread/loaf1.jpg
     alt: "loaf1"
