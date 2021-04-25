@@ -40,8 +40,9 @@ Here are some pitcures of sourdough loaves I've baked the past, along with some 
 
 ---
 
-{% include gallery id ="gallery1" class="full %}
-{% include gallery id ="gallery2" class="full %}
+{% include gallery id ="gallery1" class="full" %}
+
+{% include gallery id ="gallery2" class="full" %}
 
 
 
