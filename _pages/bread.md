@@ -28,4 +28,3 @@ Here are sme pitcures of sourdough loaves I've baked the past, along with some o
 
 
 
-
