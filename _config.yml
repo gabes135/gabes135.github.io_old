@@ -329,7 +329,7 @@ collections:
   pitches:
     output: true
     permalink: /:collection/:path/
-  culinary:
+  bread:
     output: true
     permalink: /:collection/:path/
 

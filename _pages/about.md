@@ -9,7 +9,7 @@ I'm a Graduate Student in the Physics Department at the Boston Univeristy. After
 ## Interests
 I'm an avid Bay Area sports fan (go Giants and Warriors!) and am particularly interested in the growing field of advanced analytics in sports. For more on this, check out my work on [pitch trajectories]({% link _pages/pitches-intro.md %}).
 
-I'm also a homebaker who has fully dove into the world of sourdough bread. Some of my favorite bakes are documented [here]({% link /bread %})
+I'm also a homebaker who has fully dove into the world of sourdough bread. Some of my favorite bakes are documented [here]({% link _pages/bread.md %})
 
 ## Resume and Contact Info
 You can find my [resume](/assets/CV_current.pdf) below. Feel free to contact me via email at *gabes135 at berkeley dot edu*.
