@@ -18,6 +18,7 @@ gallery1:
     url : /assets/bread/loaf3.jpg
     alt: "loaf3"
     title: "Sourdough Batard Overhead Shot"
+    
 gallery2:
   - image_path: /assets/bread/rolls1.jpg
     url : /assets/bread/rolls1.jpg
