@@ -1,5 +1,5 @@
 ---
-title: "Sourdough Bread"
+title: "Bread Baking"
 permalink: /bread/
 header:
   overlay_image: /assets/culinary/acme.jpg
@@ -20,7 +20,7 @@ sidebar:
   nav: "bread"
 ---
 
-Here are sme pitcures of sourdough loaves I've baked the past, along with some other bread-related projects.
+Here are some pitcures of sourdough loaves I've baked the past, along with some other bread-related projects.
 
 ---
 
