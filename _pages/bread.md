@@ -24,7 +24,7 @@ Here are some pitcures of sourdough loaves I've baked the past, along with some 
 
 ---
 
-
+{% include gallery caption="Sourdough Loaves" %}
 
 
 
