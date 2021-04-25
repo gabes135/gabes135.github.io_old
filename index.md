@@ -26,13 +26,6 @@ feature_row:
     url: "/pitches-intro/"
     btn_label: "Read More"
     btn_class: "btn--primary"
- <!--- - image_path: /assets/figures/chef_blue.png
-    alt: "culinary"
-    title: "Culinary"
-    excerpt: "The food I love, my favorite recipes, and photos."
-    url: "/culinary-intro/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"-->
 ---
 
 {% include feature_row %}
